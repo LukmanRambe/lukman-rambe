@@ -8,8 +8,8 @@ Welcome to my portfolio website! This project showcases my work, skills, and exp
 ## Author
 
 **Lukman Rambe** 
-* *Initial work* - [lukman-rambe][https://github.com/LukmanRambe/lukman-rambe] (Repository space)
-* *My professional profile on* [LinkedIn][https://www.linkedin.com/in/lukmanrambe/]
+* *Initial work* - [lukman-rambe](https://github.com/LukmanRambe/lukman-rambe) (Repository space)
+* *My professional profile on* [LinkedIn](https://www.linkedin.com/in/lukmanrambe/)
 
 ---
 
