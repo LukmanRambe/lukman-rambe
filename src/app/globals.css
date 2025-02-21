@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.montserrat {
+  font-family: var(--font-montserrat);
+}
+
+.roboto-mono {
+  font-family: var(--font-roboto-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  color: #ccd6f6;
+  background-color: #233554;
+}
+
+:focus:not(:focus-visible) {
+  outline: none;
+  outline-offset: 0px;
+}
+
+:focus-visible {
+  outline: 2px dashed #64ffda;
+  outline-offset: 3px;
+}
+
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #495670 #0a192f;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a192f;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #495670;
+  border: 3px solid #0a192f;
+  border-radius: 10px;
+}
